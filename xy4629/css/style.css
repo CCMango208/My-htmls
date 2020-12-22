@@ -32,7 +32,6 @@ h4{
     border: 1px #ccc;
     width: 30%;
     box-sizing: border-box;
-    background-color: rgb(181, 183, 194)
 }
 .left-block{
     float: left;
@@ -71,4 +70,11 @@ h4{
     font-family: 'Courier New', Courier, monospace;
     color: black;
     
+}
+h3{
+    background-color: lightseagreen;
+    width: 40%;
+}
+li{
+    color: black;
 }
